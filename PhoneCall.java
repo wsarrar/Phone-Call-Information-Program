@@ -1,6 +1,7 @@
 import java.util.*;
 import java.text.*;
-public class PhoneCall {
+public class PhoneCall 
+{
 	private String destinationPNum;
 	private String callerName;
 	private double cTime;
