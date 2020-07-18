@@ -2,7 +2,8 @@ import java.util.*;
 import java.text.*;
 import java.io.*;
 
-public class Assignment7{
+public class testPhoneCall
+{
 	public static void main(String[] args) throws IOException, ParseException {
 		File f = new File(args[0]);
 
